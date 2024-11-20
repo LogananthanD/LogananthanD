@@ -69,8 +69,8 @@ class Developer {
 ---
 
 👨‍💻 **GitHub Stats:**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=logananthan-d&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=logananthan-d&layout=compact&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LogananthanD&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LogananthanD&layout=compact&theme=radical)  
 
 ---
 
