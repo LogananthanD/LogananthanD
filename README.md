@@ -1,8 +1,8 @@
 <p align="center">
   Hi, 👋 I am Logananthan
 </p>
-<p>
-  <br><hr>
+<p align="center">
+  <hr>
   Mern Stack Developer | Data Analyst | Tech Enthusiast 
 </p>
 <hr>
@@ -69,6 +69,10 @@ class Developer {
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Power_BI_Logo.svg" alt="Power BI" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Google_Cloud_logo.svg" alt="Google Cloud Platform" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Data_Analysis_Logo.png" alt="Data Analysis" width="50" height="50" style="border-radius: 50%;"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Power_BI_Logo.svg" alt="Power BI" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Google_Cloud_logo_2020.svg" alt="Google Cloud Platform" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Chartist_logo.svg" alt="Data Analysis" width="50" height="50" style="border-radius: 50%;"/>
 </p>
 </p>
 
@@ -81,9 +85,9 @@ class Developer {
 
 ---
 
-
+<p align="center">
 🌟 **Fun Fact:** *The best feeling? When it works on my machine also works on yours.*
-
+</p>
 <!--
 **LogananthanD/LogananthanD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
