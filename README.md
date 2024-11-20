@@ -2,6 +2,7 @@
 Mern Stack Developer | Data Analyst | Tech Enthusiast 
 
 ---
+```Typescript
 class Developer {
     name: string = "Nakul Dev";  // Line break after each property
     role: string = "(Flutter | React) Developer";
@@ -10,6 +11,7 @@ class Developer {
     learning: string[] = ["Flutter", "React", "Machine Learning"];
     askMeAbout: string[] = ["Web Dev", "App Dev", "ML", "UI/UX"];
 }
+```
 ---
 ### Connect with Me:
 
