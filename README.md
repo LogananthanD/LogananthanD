@@ -2,22 +2,24 @@
 Mern Stack Developer | Data Analyst | Tech Enthusiast 
 
 ---
-- **Portfolio** = [visitnow](https://your-portfolio-link.com)
-- **LinkedIn** = [connect](https://www.linkedin.com/in/logananthan-dharmaraj-0ab212267/)
-- **Email** = [sendnow](mailto:your-email@example.com)
-- **Resume** = [view](https://your-resume-link.com)
+### Connect with Me:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-visitnow-blue?style=for-the-badge)](https://your-portfolio-link.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logananthan-dharmaraj-0ab212267/)
+[![Email](https://img.shields.io/badge/Email-sendnow-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) 
+[![Resume](https://img.shields.io/badge/Resume-view-green?style=for-the-badge)](https://your-resume-link.com)
 
 ---
 
-
 class Developer {
-    name: string = "Nakul Dev";
+    name: string = "Nakul Dev";  // Line break after each property
     role: string = "(Flutter | React) Developer";
     location: string = "India";
     workingOn: string = "FindX";
     learning: string[] = ["Flutter", "React", "Machine Learning"];
     askMeAbout: string[] = ["Web Dev", "App Dev", "ML", "UI/UX"];
 }
+
 
 ---
 
@@ -35,13 +37,13 @@ class Developer {
 
 <p align="left">
   <a href="https://www.linkedin.com/in/logananthan-dharmaraj-0ab212267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px; margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px; margin-right: 10px;"/>
   </a>
   <a href="https://leetcode.com/u/Logananthan_D/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" style="border-radius: 10px; margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" style="border-radius: 10px; margin-right: 10px;"/>
   </a>
   <a href="https://www.hackerrank.com/profile/loga_nanthan_d" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank" style="border-radius: 10px; margin-right: 10px;"/>
+    <img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" style="border-radius: 10px; margin-right: 10px;"/>
   </a>
 </p>
 
