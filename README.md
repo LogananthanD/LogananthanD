@@ -1,6 +1,6 @@
 <p align="center">
   Hi, 👋 I am Logananthan
-  <br>
+  <br><hr>
   Mern Stack Developer | Data Analyst | Tech Enthusiast 
 </p>
 <hr>
@@ -60,10 +60,9 @@ class Developer {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="border-radius: 10px;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" style="border-radius: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="50" height="50" style="border-radius: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Data_analytics.svg" alt="Data Analytics" width="50" height="50" style="border-radius: 10px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Google_Cloud_logo.svg" alt="GCP" width="50" height="50" style="border-radius: 10px;"/>
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Power_BI_Logo.png" alt="Power BI" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Google_Cloud_logo.svg" alt="Google Cloud Platform" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Data_Analysis_logo.png" alt="Data Analysis" width="50" height="50" style="border-radius: 50%;"/>
  
 </p>
 
@@ -71,7 +70,7 @@ class Developer {
 ---
 
 👨‍💻 **GitHub Stats:**  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Logananthan's&show_icons=true&theme=radical)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
 ---
