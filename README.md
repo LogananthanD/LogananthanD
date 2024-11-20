@@ -1,5 +1,7 @@
 <p align="center">
   Hi, 👋 I am Logananthan
+</p>
+<p>
   <br><hr>
   Mern Stack Developer | Data Analyst | Tech Enthusiast 
 </p>
@@ -63,7 +65,11 @@ class Developer {
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Power_BI_Logo.png" alt="Power BI" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Google_Cloud_logo.svg" alt="Google Cloud Platform" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Data_Analysis_logo.png" alt="Data Analysis" width="50" height="50" style="border-radius: 50%;"/>
- 
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Power_BI_Logo.svg" alt="Power BI" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Google_Cloud_logo.svg" alt="Google Cloud Platform" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Data_Analysis_Logo.png" alt="Data Analysis" width="50" height="50" style="border-radius: 50%;"/>
+</p>
 </p>
 
 
