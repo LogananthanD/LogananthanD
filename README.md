@@ -1,19 +1,20 @@
---
-                           ## Hi, I am Logananthan/Dev 👋
-                    Mern Stack Developer | Data Analyst | Tech Enthusiast 
+<p align="center">
+  Hi, 👋 I am Logananthan
+  <br>
+  Mern Stack Developer | Data Analyst | Tech Enthusiast 
+</p>
+<hr>
 
 ---
 ```Typescript
 class Developer {
-    name: string = "Nakul Dev";  
-    role: string = "(Flutter | React) Developer";
+    name: string = "Logananthan";  
+    role: string = "(MERN Stack|React) Developer";
     location: string = "India";
-    workingOn: string = "FindX";
-    learning: string[] = ["Flutter", "React", "Machine Learning"];
-    askMeAbout: string[] = ["Web Dev", "App Dev", "ML", "UI/UX"];
+    learning: string[] = ["Mern Stack", "React", "Gcp"];
+    askMeAbout: string[] = ["Web Dev", "Data Analytics", "Cloud"];
 }
 ```
----
 ### Connect with Me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visitnow-blue?style=for-the-badge)](https://your-portfolio-link.com) 
