@@ -2,15 +2,6 @@
 Mern Stack Developer | Data Analyst | Tech Enthusiast 
 
 ---
-### Connect with Me:
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-visitnow-blue?style=for-the-badge)](https://your-portfolio-link.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logananthan-dharmaraj-0ab212267/)
-[![Email](https://img.shields.io/badge/Email-sendnow-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) 
-[![Resume](https://img.shields.io/badge/Resume-view-green?style=for-the-badge)](https://your-resume-link.com)
-
----
-
 class Developer {
     name: string = "Nakul Dev";  // Line break after each property
     role: string = "(Flutter | React) Developer";
@@ -19,22 +10,13 @@ class Developer {
     learning: string[] = ["Flutter", "React", "Machine Learning"];
     askMeAbout: string[] = ["Web Dev", "App Dev", "ML", "UI/UX"];
 }
-
-
 ---
-
-🔭 **Currently Working On:**  
-- MERN Stack Projects (React, Node.js, MongoDB, Express.js)  
-- Kubernetes and Cloud Applications  
-
-🌱 **Currently Learning:**  
-- Advanced Web Development  
-- Google Cloud Platform (GCP)  
-
----
-
 ### Connect with Me:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-visitnow-blue?style=for-the-badge)](https://your-portfolio-link.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logananthan-dharmaraj-0ab212267/)
+[![Email](https://img.shields.io/badge/Email-sendnow-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com) 
+[![Resume](https://img.shields.io/badge/Resume-view-green?style=for-the-badge)](https://your-resume-link.com)
 <p align="left">
   <a href="https://www.linkedin.com/in/logananthan-dharmaraj-0ab212267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 10px; margin-right: 10px;"/>
@@ -50,6 +32,15 @@ class Developer {
 
 ---
 
+🔭 **Currently Working On:**  
+- MERN Stack Projects (React, Node.js, MongoDB, Express.js)  
+- Kubernetes and Cloud Applications  
+
+🌱 **Currently Learning:**  
+- Advanced Web Development  
+- Google Cloud Platform (GCP)  
+
+---
 
 ### Languages and Tools:
 
@@ -91,8 +82,7 @@ class Developer {
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
 
 ---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
----
+
 
 🌟 **Fun Fact:** *The best feeling? When it works on my machine also works on yours.*
 
