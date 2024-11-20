@@ -5,7 +5,6 @@
 <p align="center">
   Mern Stack Developer | Data Analyst | Tech Enthusiast 
 </p>
-<hr>
 
 ---
 ```Typescript
@@ -62,6 +61,8 @@ class Developer {
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="border-radius: 10px;"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="50" height="50" style="border-radius: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Microsoft_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" style="border-radius: 50%; margin-right: 10px;"/>
+  
 </p>
 </p>
 
@@ -75,7 +76,7 @@ class Developer {
 ---
 
 <p align="center">
-🌟 **Fun Fact:** *The best feeling? When it works on my machine also works on yours.*
+🌟 **Fun Fact: The best feeling? When it works on my machine also works on yours.
 </p>
 <!--
 **LogananthanD/LogananthanD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
