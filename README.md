@@ -2,20 +2,7 @@
   Hi , 👋 I am Logananthan
 </p>
  <hr>
-<p align="center">
-  Mern Stack Developer | Data Analyst | Tech Enthusiast 
-</p>
-
 ---
-```Typescript
-class Developer {
-    name: string = "Logananthan";  
-    role: string = "(MERN Stack|React) Developer";
-    location: string = "India";
-    learning: string[] = ["Mern Stack", "React", "Gcp"];
-    askMeAbout: string[] = ["Web Dev", "Data Analytics", "Cloud"];
-}
-```
 ### Connect with Me:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-visitnow-blue?style=for-the-badge)](https://your-portfolio-link.com) 
@@ -46,21 +33,6 @@ class Developer {
 - Google Cloud Platform (GCP)  
 
 ---
-
-### Languages and Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="border-radius: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="border-radius: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="border-radius: 10px;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="border-radius: 10px;"/>
-
-</p>
-
-
-
 ---
 
 👨‍💻 **GitHub Stats:**  
